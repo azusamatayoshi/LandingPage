@@ -17,13 +17,11 @@ body {
 
 .card {
  display: flex;
- flex-direction: row;
- width: 150px;
- background-color: #cccccc;
 }
 
 .content {
- flex: 1;
+ width: 150px;
+ background-color: #cccccc;
 }
  
 
