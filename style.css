@@ -27,7 +27,7 @@ div {
  box-sizing: border-box;
 }
 
-.box {
+.boxbox {
  border: solid 1px white;
  display: inline-block;
  width: 100px;
