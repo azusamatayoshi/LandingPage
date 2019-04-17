@@ -10,7 +10,7 @@ body {
 }
  
 .sec2 {
- border: solid, 3px, #cccccc;
+ border: solid 3px #cccccc;
  width: 600px;
  height: 300px;
 }
@@ -20,8 +20,18 @@ body {
  height: 500px;
 }
 
+div {
+ box-sizing: border-box;
+}
+
+li {
+ border: solid 1px white;
+ display: inline-block;
+ width: 100px;
+}
+
 .sec4 {
- border: solid, 3px, #cccccc;
+ border: solid 3px #cccccc;
  height: 500px;
 }
 
