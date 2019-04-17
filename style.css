@@ -29,9 +29,7 @@ body {
 
 .boxbox {
  border: solid 1px white;
- display: flex;
- flex-direction: column;
- width: 100px;
+ width: 500px;
 }
 
 .sec4 {
