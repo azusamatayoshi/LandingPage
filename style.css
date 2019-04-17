@@ -1,5 +1,11 @@
-main {
+body {
  text-align: center;
- }
+}
  
+.sec1 {
+ background-color: #cccccc;
+ width: 600px;
+ height: 300px;
+}
  
+
