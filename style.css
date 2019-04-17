@@ -1,19 +1,17 @@
 body {
  font-family: Verdana, Sans-serif;
  text-align: center;
- width:600px;
+ width:800px;
  margin: auto;
 }
  
 .sec1 {
  background-color: #cccccc;
- width: 600px;
  height: 300px;
 }
  
 .sec2 {
  border: solid 1px #cccccc;
- width: 600px;
  height: 250px;
 }
 
@@ -37,8 +35,5 @@ body {
  height: 300px;
 }
 
-.sec5 {
- background-color: #cccccc;
- height: 200px;
-}
+
  
