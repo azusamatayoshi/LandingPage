@@ -1,6 +1,6 @@
 body {
  font-family: Verdana, Sans-serif;
- 
+ text-align: center;
  width:600px;
  margin: auto;
 }
@@ -29,7 +29,8 @@ body {
 
 .boxbox {
  border: solid 1px white;
- display: inline-block;
+ display: flex;
+ flex-direction: column;
  width: 100px;
 }
 
