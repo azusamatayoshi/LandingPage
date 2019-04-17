@@ -17,8 +17,9 @@ body {
 
 .card {
  display: flex;
- flex-direction: column;
- width: 100px;
+ flex-direction: row;
+ width: 150px;
+ background-color: #cccccc;
 }
 
 .content {
