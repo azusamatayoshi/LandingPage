@@ -5,12 +5,12 @@ body {
  margin: auto;
 }
  
-.sec1 {
+.kyoukann {
  background-color: #cccccc;
  height: 200px;
 }
  
-.sec2 {
+.syouhinn {
  border: solid 1px #cccccc;
  height: 300px;
 }
@@ -28,7 +28,7 @@ body {
  clear: both;
 }
 
-.sec3{
+.benefit {
  background-color: #cccccc;
  height: 400px;
  padding-top:29px;
@@ -41,7 +41,7 @@ body {
  margin: auto;
 }
 
-.sec4 {
+.sabetsuka {
  border: solid 3px #cccccc;
  height: 300px;
 }
