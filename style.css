@@ -24,7 +24,7 @@ div {
  box-sizing: border-box;
 }
 
-li {
+div dl dt {
  border: solid 1px white;
  display: inline-block;
  width: 100px;
