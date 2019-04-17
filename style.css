@@ -23,7 +23,7 @@ body {
  padding-top:29px;
 }
 
-div {
+.box {
  box-sizing: border-box;
 }
 
