@@ -30,8 +30,6 @@ header {
 .inlineblock ul {
  text-align: center;
  list-style: none;
- padding-left: none;
- background-color: red;
 }
 
 .inlineblock li {
@@ -57,11 +55,11 @@ header {
 .list {
  width: 85%;
  margin: 0 auto;
- background-color: pink;
+ background-color: white;
 }
 
 .list dl {
- inline-height: 2em;
+ line-height: 2em;
  text-align: left;
 }
 
