@@ -4,6 +4,12 @@ body {
  text-align: center;
  width: 85%;
 }
+
+@media screen and (max-width: 480px){
+ body {
+  width: 100%;
+ }
+}
  
 header {
  margin-top: 20%;
@@ -24,7 +30,6 @@ header {
  text-align: center;
  list-style: none;
  padding-left: none;
- padding: 5% 0;
 }
 
 .inlineblock li {
@@ -32,11 +37,12 @@ header {
  background-color: #cccccc;
  width: 80px;
  padding: 10%;
+ margin-left: 5px;
 }
  
 @media screen and (max-width:480px) {
-body, .inlineblock li {
-  width: 100%;
+.inlineblock li {
+  width: 70%;
  }
 }
 
