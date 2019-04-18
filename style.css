@@ -5,22 +5,24 @@ body {
  width:800px;
 }
  
+.header {
+ padding: 10% 0;
+}
+
 .kyoukann {
  background-color: #cccccc;
- height: 200px;
- padding-top: 20px;
+ padding: 10% 0;
 }
  
 .syouhinn {
  border: solid 1px #cccccc;
- height: 500px;
- padding-top: 20px;
+ padding: 10% 0;
 }
 
 .inlineblock ul {
  text-align: center;
  list-style: none;
- padding-left: 0;
+ padding: 10% 0;
 }
 
 .inlineblock li {
@@ -34,8 +36,7 @@ body {
 
 .benefit {
  background-color: #cccccc;
- height: 400px;
- padding-top: 20px;
+ padding: 10% 0;
 }
 
 .list {
@@ -46,8 +47,7 @@ body {
 
 .sabetsuka {
  border: solid 1px #cccccc;
- height: 300px;
- padding-top: 20px;
+ padding: 10% 0;
 }
 
 
