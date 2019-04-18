@@ -17,26 +17,18 @@ body {
  padding-top: 20px;
 }
 
-ul {
+.inlineblock ul {
+ text-align: center;
  list-style: none;
  padding-left: 0;
 }
 
-li {
- background-color: #cccccc;
- width: 50px;
- height: 50px;
- padding: 10px;
-}
- 
-
-
-.inlineblock {
- text-align: center;
-}
-
 .inlineblock li {
  display: inline-block;
+ background-color: #cccccc;
+ width: 100px;
+ height: 30px;
+ padding: 10px;
 }
  
 
