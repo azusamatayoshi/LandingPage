@@ -35,7 +35,7 @@ header {
 }
  
 @media screen and (max-width:480px) {
- .inlineblock li {
+body, .inlineblock li {
   width: 100%;
  }
 }
