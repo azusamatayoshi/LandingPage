@@ -39,7 +39,6 @@ header {
  background-color: #cccccc;
  width: 80px;
  padding: 10%;
- background-color: blue;
 }
  
 @media screen and (max-width:640px) {
@@ -61,10 +60,6 @@ header {
  background-color: pink;
 }
 
-.list ul {
- list-style-position: inside;
- background-color: yellow;
-}
 
 .sabetsuka {
  border: solid 1px #cccccc;
