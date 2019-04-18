@@ -30,6 +30,7 @@ header {
 .inlineblock ul {
  text-align: center;
  list-style: none;
+ list-style-position: inside;
  padding-left: none;
 }
 
