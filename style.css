@@ -30,7 +30,6 @@ header {
 .inlineblock ul {
  text-align: center;
  list-style: none;
- list-style-position: inside;
  padding-left: none;
 }
 
@@ -59,6 +58,9 @@ header {
  margin: 0 auto;
 }
 
+.list ul {
+ list-style-position: inside;
+}
 
 .sabetsuka {
  border: solid 1px #cccccc;
