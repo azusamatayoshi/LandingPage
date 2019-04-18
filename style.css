@@ -6,6 +6,7 @@ body {
 }
  
 .header {
+ margin-top: 20%;
  padding: 10% 0;
 }
 
@@ -28,8 +29,7 @@ body {
 .inlineblock li {
  display: inline-block;
  background-color: #cccccc;
- width: 100px;
- height: 30px;
+ width: 80px;
  padding: 10%;
 }
  
@@ -40,7 +40,7 @@ body {
 }
 
 .list {
- width: 60%;
+ width: 75%;
  margin: 0 auto;
 }
 
