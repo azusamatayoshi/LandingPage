@@ -17,20 +17,28 @@ body {
  padding-top: 20px;
 }
 
-.box {
- float: left;
- width: 100px;
- height: 100px;
- background-color: #cccccc;
- padding: 30px auto;
- vertical-align: middle;
+ul {
+ list-style: none;
+ padding-left: 0;
 }
 
-.wrapper::after {
- content: "";
- display: block;
- clear: both;
+li {
+ background-color: #cccccc;
+ width: 50px;
+ height: 50px;
+ padding: 10px;
 }
+ 
+
+
+.inlineblock {
+ text-align: center;
+}
+
+.inlineblock li {
+ display: inline-block;
+}
+ 
 
 .benefit {
  background-color: #cccccc;
