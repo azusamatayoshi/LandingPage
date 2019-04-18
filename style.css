@@ -8,11 +8,13 @@ body {
 .kyoukann {
  background-color: #cccccc;
  height: 200px;
+ padding-top: 20px;
 }
  
 .syouhinn {
  border: solid 1px #cccccc;
  height: 300px;
+ padding-top: 20px;
 }
 
 .box {
@@ -20,6 +22,7 @@ body {
  width: 200px;
  height: 200px;
  background-color: #cccccc;
+ padding: 120px auto;
 }
 
 .wrapper::after {
@@ -31,19 +34,14 @@ body {
 .benefit {
  background-color: #cccccc;
  height: 400px;
- padding-top:29px;
+ padding-top: 20px;
 }
 
-
-.boxbox {
- border-bottom: solid 1px white;
- width: 500px;
- margin: auto;
-}
 
 .sabetsuka {
- border: solid 3px #cccccc;
+ border: solid 1px #cccccc;
  height: 300px;
+ padding-top: 20px;
 }
 
 
