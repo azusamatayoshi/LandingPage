@@ -1,8 +1,8 @@
 body {
  font-family: Verdana, Sans-serif;
+ margin: 0 auto;
  text-align: center;
  width:800px;
- margin: auto;
 }
  
 .kyoukann {
@@ -23,6 +23,7 @@ body {
  height: 100px;
  background-color: #cccccc;
  padding: 30px auto;
+ vertical-align: middle;
 }
 
 .wrapper::after {
