@@ -2,7 +2,7 @@ body {
  font-family: Verdana, Sans-serif;
  margin: 0 auto;
  text-align: center;
- width:800px;
+ width: 85%;
 }
  
 .header {
@@ -23,6 +23,7 @@ body {
 .inlineblock ul {
  text-align: center;
  list-style: none;
+ padding-left: none;
  padding: 5% 0;
 }
 
