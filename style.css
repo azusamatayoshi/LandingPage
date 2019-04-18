@@ -55,11 +55,19 @@ header {
 }
 
 .list {
- width: 75%;
+ width: 85%;
  margin: 0 auto;
  background-color: pink;
 }
 
+.list dl {
+ inline-height: 2em;
+ text-align: left;
+}
+
+.list dt {
+ text-decoration: underline;
+}
 
 .sabetsuka {
  border: solid 1px #cccccc;
