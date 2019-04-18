@@ -37,12 +37,13 @@ header {
  background-color: #cccccc;
  width: 80px;
  padding: 10%;
- margin-left: 5px;
 }
  
 @media screen and (max-width:480px) {
 .inlineblock li {
   width: 70%;
+ display: block;
+ 
  }
 }
 
