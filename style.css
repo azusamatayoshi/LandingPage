@@ -38,6 +38,11 @@ body {
  padding-top: 20px;
 }
 
+.list {
+ width: 600px;
+ margin: 0 auto;
+}
+
 
 .sabetsuka {
  border: solid 1px #cccccc;
