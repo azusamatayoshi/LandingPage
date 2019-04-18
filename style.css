@@ -31,6 +31,7 @@ header {
  text-align: center;
  list-style: none;
  padding-left: none;
+ background-color: red;
 }
 
 .inlineblock li {
@@ -38,6 +39,7 @@ header {
  background-color: #cccccc;
  width: 80px;
  padding: 10%;
+ background-color: blue;
 }
  
 @media screen and (max-width:640px) {
@@ -56,10 +58,12 @@ header {
 .list {
  width: 75%;
  margin: 0 auto;
+ background-color: pink;
 }
 
 .list ul {
  list-style-position: inside;
+ background-color: yellow;
 }
 
 .sabetsuka {
