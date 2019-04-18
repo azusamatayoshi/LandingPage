@@ -34,6 +34,11 @@ header {
  padding: 10%;
 }
  
+@media screen and (max-width:480px) {
+ .inlineblock li {
+  width: 100%;
+ }
+}
 
 .benefit {
  background-color: #cccccc;
