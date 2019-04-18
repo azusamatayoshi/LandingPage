@@ -11,18 +11,18 @@ body {
 
 .kyoukann {
  background-color: #cccccc;
- padding: 10% 0;
+ padding: 5% 0;
 }
  
 .syouhinn {
  border: solid 1px #cccccc;
- padding: 10% 0;
+ padding: 5% 0;
 }
 
 .inlineblock ul {
  text-align: center;
  list-style: none;
- padding: 10% 0;
+ padding: 5% 0;
 }
 
 .inlineblock li {
@@ -36,18 +36,18 @@ body {
 
 .benefit {
  background-color: #cccccc;
- padding: 10% 0;
+ padding: 5% 0;
 }
 
 .list {
- width: 600px;
+ width: 60%;
  margin: 0 auto;
 }
 
 
 .sabetsuka {
  border: solid 1px #cccccc;
- padding: 10% 0;
+ padding: 5% 0;
 }
 
 
