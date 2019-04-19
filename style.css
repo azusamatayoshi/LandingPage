@@ -3,6 +3,7 @@ body {
  margin: 0 auto;
  text-align: center;
  width: 85%;
+ background: liner-gradient(#05FBFF, #1E00FF);
 }
 
 @media screen and (max-width: 768px){
