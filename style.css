@@ -44,7 +44,7 @@ header {
 }
 
 .syouhinn ul {
-/* width: 600px;*/
+ width: 600px;
  text-align: center;
  list-style: none;
  padding-left: 0;
@@ -54,7 +54,7 @@ header {
 
 .inlineblock li {
  display: inline-block;
- /*background-color: #cccccc;*/
+ background-color: #cccccc;
  width: 80px;
  padding: 10%;
 }
