@@ -15,7 +15,8 @@ nav ul {
  list-style: none;
  padding-left: 0;
  width: 85%;
- text-align: center;
+ text-align: center; 
+ margin: auto;
  background-color: #cccccc;
 }
 
@@ -42,12 +43,12 @@ header {
  padding: 5% 0;
 }
 
-ul .inlineblock {
+.inlineblock  ul {
 /* width: 600px;*/
  text-align: center;
  list-style: none;
  padding-left: 0;
- margin-left: 0;
+ margin: auto;
  background-color: red;
 }
 
