@@ -55,8 +55,7 @@ header {
 .inlineblock li {
  display: inline-block;
  background-color: #cccccc;
- width: 80px;
- padding: 10%;
+ padding: 30%;
 }
  
 @media screen and (max-width:768px) {
