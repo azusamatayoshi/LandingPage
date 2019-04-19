@@ -28,6 +28,7 @@ header {
 }
 
 .inlineblock ul {
+ width: 600px;
  text-align: center;
  list-style: none;
  padding-left: 0;
