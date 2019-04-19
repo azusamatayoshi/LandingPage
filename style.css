@@ -43,8 +43,13 @@ header {
 }
  
 .syouhinn {
+ background-color: white;
  border: solid 1px #cccccc;
  padding: 5% 0;
+}
+
+.syouhinn {
+ background-color: white;
 }
 
 .syouhinn ul {
@@ -53,7 +58,6 @@ header {
  list-style: none;
  padding-left: 0;
  margin: auto;
-background-color: pink;
 }
 
 .inlineblock li {
@@ -91,6 +95,7 @@ background-color: pink;
 }
 
 .sabetsuka {
+ background-color: white;
  border: solid 1px #cccccc;
  padding: 5% 0;
 }
