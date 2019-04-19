@@ -40,15 +40,16 @@ header {
  border: solid 1px #cccccc;
  padding: 5% 0;
 }
-/*
-.inlineblock ul {
+
+ul .inlineblock {
  width: 600px;
  text-align: center;
  list-style: none;
  padding-left: 0;
+ margin-left: 0;
  background-color: red;
 }
-*/
+
 .inlineblock li {
  display: inline-block;
  background-color: #cccccc;
